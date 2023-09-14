@@ -1,0 +1,14 @@
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\bin\Debug\net6.0\MyApp_12.09.exe
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\bin\Debug\net6.0\MyApp_12.09.deps.json
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\bin\Debug\net6.0\MyApp_12.09.runtimeconfig.json
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\bin\Debug\net6.0\MyApp_12.09.dll
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\bin\Debug\net6.0\MyApp_12.09.pdb
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\obj\Debug\net6.0\MyApp_12.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\obj\Debug\net6.0\MyApp_12.09.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\obj\Debug\net6.0\MyApp_12.09.AssemblyInfo.cs
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\obj\Debug\net6.0\MyApp_12.09.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\obj\Debug\net6.0\MyApp_12.09.dll
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\obj\Debug\net6.0\refint\MyApp_12.09.dll
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\obj\Debug\net6.0\MyApp_12.09.pdb
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\obj\Debug\net6.0\MyApp_12.09.genruntimeconfig.cache
+C:\Users\serge\source\repos\MyApp_12.09\MyApp_12.09\obj\Debug\net6.0\ref\MyApp_12.09.dll
